@@ -1,189 +1,142 @@
-<!-- Main Banner -->
+<!-- Animated Title Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3300&pause=1200&color=00F5A0&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Advay.;Automation+Architect+%7C+Tech+Innovator.;Turning+Ideas+Into+Self-Running+Systems.;Building+Tools+That+Work+While+You+Rest."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3300&pause=1200&color=00F5A0&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Advay.;Automation+Architect.;Cloudflare+Worker+Builder.;Zero-Cost+Deployment+Strategist.;Systems+That+Run+Themselves."/>
 </p>
 
 ---
 
-# 🚀 About Me
-I’m **Advay** — a builder who loves designing systems that **run automatically, scale smoothly, and stay reliable without constant supervision**.
-
-My whole mindset is simple:
-- If a workflow wastes time → automate it.  
-- If a system is unstable → optimize it.  
-- If a tool slows me down → replace it.  
-- If an idea has potential → build a working version fast.
-
-I’m constantly experimenting, improving, and building things that *don’t* need a whole team to maintain.  
-Just smart logic, clever design, and automation doing the heavy lifting.
+<!-- Animated n8n Icon -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codingcodax/cdn/main/n8n-animated.gif" width="120px" alt="n8n animated icon"/>
+</p>
 
 ---
 
-# 🧠 My Work Philosophy
+<!-- Section Header Design -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F5A0&height=3&section=header"/>
+</p>
 
-### **🔹 Automation-first mindset**  
-Everything I build starts with a question:  
-_“How do we make this run on its own?”_  
-Then I design from that angle.
+# 🌐 About Me  
+I’m **Advay**, a developer focused on automation, system intelligence, and building production-level environments that cost **$0**.  
+I combine:
+- **n8n**,  
+- **Cloudflare Workers**,  
+- **Custom APIs**,  
+- **Free-tier microservices**,  
+- **Workflow engineering**,  
 
-### **🔹 Efficiency over complexity**  
-Clean solutions >>> bloated “enterprise” mess.
+…to create **advanced self-running systems** that behave like full-scale SaaS setups — without paying a cent.
 
-### **🔹 Build fast, refine continuously**  
-The first version ships fast. The next versions evolve intelligently.
-
-### **🔹 Use the right tools, not the loudest tools**  
-Quiet tools. Reliable tools. Tools that don’t break.
-
-### **🔹 Free-tier mastery**  
-I love pushing limits of platforms most people underestimate.
-
----
-
-# 🔭 What I’m Working On Right Now
-- Creating **high-efficiency automation pipelines** using n8n and custom logic  
-- Building **stable, long-running services** on free-tier cloud environments  
-- Developing reusable scripts and modules for faster idea execution  
-- Testing new workflow structures to reduce time, effort, and friction  
-- Expanding my personal ecosystem of tools that run independently  
+My style?  
+Smart logic. Clean execution. Zero maintenance. Extreme efficiency.
 
 ---
 
-# 🛠 Tools, Skills & Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00F5A0&height=3&section=header"/>
+</p>
 
-### **Automation**
-- n8n  
-- MacroDroid  
-- Custom script logic  
-- API design & automation chains  
+# ⚙️ What I Build  
+### **🧩 Automation Ecosystems**
+- Multi-node workflows in **n8n**  
+- Trigger-based event flows  
+- Intelligent error-handling & fallback logic  
+- Fully automated “set and forget” pipelines  
 
-### **Code & Logic**
-- JavaScript  
-- Python  
-- JSON-based workflow structures  
-- Node-based automation logic  
+### **🧬 Zero-Cost Production Architectures**
+- Cloudflare Worker APIs  
+- Gateway routing  
+- Real-time API transformations  
+- Edge functions running 24/7  
+- KV & Durable Object integrations  
 
-### **Cloud & Deployment**
-- Render  
-- Koyeb  
-- Lightweight microservices  
-- Zero-maintenance architecture patterns  
+### **🚀 Microservices for Automation**
+- Custom REST APIs for workflows  
+- JSON processors  
+- Message filters  
+- URL shorteners  
+- Data processors  
+- Proxy utilities  
+- Lightweight background services  
 
-### **Productivity & System Design**
-- Efficient pipeline design  
-- Smart caching & workflow optimization  
-- Self-managing systems  
-- Free-tier engineering  
+### **🛰 Free-Tier Deployment**
+I’ve mastered:
+- **Koyeb free-tier microservices**  
+- **Render free-tier web services**  
+- **Cloudflare Workers / Pages**  
+- **Public APIs**  
+- **Open-source self-host workflows**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Automation-n8n-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MacroDroid-Logic-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-Functional-yellow?style=for-the-badge"/>
+Everything runs reliably with:
+- Zero cost  
+- Minimal oversight  
+- Maximum uptime  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00F5A0&height=3&section=header"/>
+</p>
+
+# 🛠 My Toolbox  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloudflare-Workers-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-Tools-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Render-Free--Tier-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Koyeb-Free--Tier-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-Efficient-00F5A0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Koyeb-Microservices-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Render-Free%20Hosting-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Design-Clean-00F5A0?style=for-the-badge"/>
 </p>
 
----
-
-# 🌐 What I Build
-### ✔ Automated systems  
-### ✔ Lightweight utilities  
-### ✔ Workflow engines  
-### ✔ Self-running background services  
-### ✔ Optimized deployment architectures  
-### ✔ Tools that help creators work smarter  
-
-If it saves time, cuts repetition, or improves flow — it fits my style.
-
----
-
-# 🧩 What I’m Learning & Improving
-- Smarter automation decision-trees  
-- Faster prototyping frameworks  
-- Workflow resiliency strategies  
-- Optimization for long-running processes  
-- New ways to create “fire and forget” systems  
-
----
-
-# 💬 If You Want To Connect
-The best way to reach me:  
-👉 **Open a GitHub Issue or Discussion** on any repo  
-I’m active, responsive, and open to smart collaboration.
-
----
-
-# ⚡ Some Things About Me
-- I love designing systems that **run themselves**  
-- I chase **efficiency over hype**  
-- I believe smart automation can replace hours of manual work  
-- I enjoy building tools that feel like superpowers  
-- I’m always thinking of new ways to scale ideas  
-- If there’s a free-tier that’s actually reliable → I’ll master it  
-
----
-
-# ✨ Personal Motto
-> **“Automate the repeatable. Optimize the essential. Build what lasts.”**
+### **Highlights**
+✔ Event-driven APIs  
+✔ Free-tier engineering  
+✔ Workflow scripting  
+✔ Cloud automation  
+✔ System optimization  
+✔ Zero-maintenance deployment  
+✔ API → Automation integration  
+✔ Edge computing setups  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5A0&height=120&section=footer"/>
-</p># 👋 Hey, I’m Advay
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00F5A0&height=3&section=header"/>
+</p>
 
-I’m a **tech enthusiast and automation-focused creator** who builds systems that work smarter, scale effortlessly, and stay reliable long-term. I’m obsessed with efficiency, clean workflows, and tools that help you get more done with less effort.
+# 🧠 How I Work  
+### **Automation First**  
+If it can repeat → it gets automated.  
 
----
+### **Efficiency > Complexity**  
+Simple, durable logic beats over-engineered chaos.  
 
-## 🔭 What I’m Working On
-- Designing **advanced automation pipelines** using n8n and custom scripting  
-- Building lightweight, reliable services deployed on stable free-tier cloud platforms  
-- Creating solutions that automate repetitive processes and boost productivity  
-- Experimenting with new tech ideas to turn small concepts into scalable tools  
+### **Build Fast → Improve Continuously**  
+V1 ships quick.  
+V2 is smarter.  
+V3 is unstoppable.  
 
----
-
-## 🧠 What I’m Learning
-- Smarter automation patterns and workflow optimization  
-- New techniques for scalable cloud deployments  
-- Faster ways to prototype, test, and ship ideas  
-
----
-
-## 🤝 What I Like Collaborating On
-- Automation-heavy projects  
-- Systems that aim for efficiency, stability, and smart execution  
-- Tools that help people get more done with fewer resources  
+### **Free-Tier Engineering**  
+Maximum output.  
+Zero cost.  
+No compromises.  
 
 ---
 
-## 💬 Ask Me About
-- Automation (n8n, MacroDroid, scripting)  
-- Building reliable setups on free-tier cloud platforms  
-- Productivity tricks that actually save time  
-- Turning small ideas into fully automated systems  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00F5A0&height=3&section=header"/>
+</p>
+
+# 📫 Reach Me  
+Best way:  
+👉 **Open a GitHub Issue or Discussion on any repo**  
+I respond fast and love collaborating with smart builders.
 
 ---
 
-## 📬 Reach Me Via
-- GitHub Discussions or Issues (best for collabs & questions)  
-- My public GitHub activity — everything I do is transparent  
-
----
-
-## ⚡ Fun Fact
-Every time I automate a task once, I free up time forever — that’s the whole philosophy behind everything I build.
-
----
-
-## 📊 GitHub Stats
-![Advay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advay254&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Advay254&layout=compact&theme=radical)
-
----
-
-> “Automate the repetitive. Optimize the important. Build what lasts.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5A0&height=150&section=footer"/>
+</p>
