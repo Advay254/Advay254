@@ -27,6 +27,7 @@ I specialize in creating **production-grade automation systems** that operate at
 
 - **Workflow Engineering**: Advanced n8n implementations with custom nodes and sophisticated logic
 - **API Microservices**: High-performance, purpose-built services designed for automation
+- **Telegram Bots**: Production-ready bots with clean architecture and reliable messaging
 - **Free-Tier Infrastructure**: Entire production systems deployed without credit cards
 - **Cloudflare Ecosystems**: Workers, KV, Durable Objects, and R2 forming robust backends
 - **Internal Tooling**: Data processing, routing, scheduling, and event-driven automation
@@ -149,12 +150,13 @@ I'm always interested in projects involving:
 
 ## 📬 Get In Touch
 
-I keep communication simple and transparent:
-
 <div align="center">
 
-**💬 Open a [GitHub Issue](../../issues) or [Discussion](../../discussions)**  
-I respond there first—it keeps conversations public and helpful for others.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advay-glimmer-571145380)
+[![GitHub](https://img.shields.io/badge/GitHub-Discussion-181717?style=for-the-badge&logo=github&logoColor=white)](../../discussions)
+
+**💬 Open a [GitHub Issue](../../issues) or [Discussion](../../discussions) — I respond there first**  
+*Keeping conversations public helps the entire community*
 
 </div>
 
@@ -166,10 +168,18 @@ I respond there first—it keeps conversations public and helpful for others.
 
 <div align="center">
 
-### 🎨 Powered By
+### 🎨 Built With
 
-<a href="https://n8n.io" target="_blank">
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.gif" width="80" alt="n8n automation" />
+<a href="https://n8n.io" target="_blank" title="n8n - Workflow Automation">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="60" alt="n8n" />
+</a>
+&nbsp;&nbsp;
+<a href="https://workers.cloudflare.com" target="_blank" title="Cloudflare Workers">
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="60" alt="Cloudflare" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/features/actions" target="_blank" title="GitHub Actions">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" alt="GitHub" />
 </a>
 
 ---
